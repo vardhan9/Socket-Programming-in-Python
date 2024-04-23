@@ -1,0 +1,8 @@
+Socket Programming in Python
+
+Port Number: Different services uses Different port Number
+
+Type of connection: TCP(Transmission Control Protocol) -> Connection Oriented Network, Creates a connection first the communicates
+                    UDP(User Datagram Protocol) -> Connection Less Network, Donot need to have prior connection, Based on network or address
+                                                    packets will reach to predefined destination.
+                                                    Drawback is not sure whether packet has reached the destination.
